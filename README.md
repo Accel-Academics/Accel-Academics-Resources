@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Accel Academics - Release V0.1</h1>
+  <h1>Accel Academics - Release V0.1.1</h1>
   <a href="#"><img alt="Website" src="https://img.shields.io/website?&down_color=Red&down_message=Offline&up_color=Green&up_message=Online&url=https%3A%2F%2Fmywebsite.com&style=flat-square"></a>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Accel-Academics/Accel-Academics-Resources?style=flat-square">
   <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/Accel-Academics/Accel-Academics-Resources?style=flat-square">
